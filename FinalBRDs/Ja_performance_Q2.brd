@@ -1127,7 +1127,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>2</value>
+                        <value>297</value>
                     </Input>
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
@@ -1155,7 +1155,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">2</matcherParameter>
+                        <matcherParameter name="single">297</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -1907,7 +1907,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>207</value>
+                        <value>300</value>
                     </Input>
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
@@ -1935,7 +1935,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">207</matcherParameter>
+                        <matcherParameter name="single">300</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
