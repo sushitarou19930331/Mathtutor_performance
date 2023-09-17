@@ -145,7 +145,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank2_2</text>
+        <text>blank2_297</text>
         <uniqueID>31</uniqueID>
         <dimension>
             <x>856</x>
@@ -201,7 +201,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank4_297</text>
+        <text>blank4_207</text>
         <uniqueID>38</uniqueID>
         <dimension>
             <x>990</x>
@@ -265,7 +265,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank2_207</text>
+        <text>blank2_300</text>
         <uniqueID>46</uniqueID>
         <dimension>
             <x>716</x>
@@ -305,7 +305,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank4_300</text>
+        <text>blank4_2</text>
         <uniqueID>51</uniqueID>
         <dimension>
             <x>806</x>
@@ -405,7 +405,7 @@
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage>&#12420;&#12387;&#12383;&#12397;&#12290;</successMessage>
             <hintMessage>&#19978;&#12398;&#30452;&#32218;&#12392;&#19979;&#12398;&#30452;&#32218;&#12399;&#65292;&#12381;&#12428;&#12382;&#12428;&#20309;&#12434;&#34920;&#12375;&#12390;&#12427;&#12398;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
-            <hintMessage>1L&#12398;&#37325;&#12373;&#12399;&#12391;&#20309;g&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>1L&#12398;&#37325;&#12373;&#12399;&#20309;g&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
             <hintMessage>&#31572;&#12360;&#12399;"300"&#12391;&#12377;&#12290;</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
@@ -1367,7 +1367,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>297</value>
+                        <value>207</value>
                     </Input>
                     <transaction_id>5727a459-4944-a5fa-84a3-58ad8f593bcd</transaction_id>
                 </properties>
@@ -1395,7 +1395,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">297</matcherParameter>
+                        <matcherParameter name="single">207</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2207,7 +2207,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>300</value>
+                        <value>2</value>
                     </Input>
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
@@ -2235,7 +2235,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">300</matcherParameter>
+                        <matcherParameter name="single">2</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2264,7 +2264,7 @@
                         <value>blank4</value>
                     </Selection>
                     <Action>
-                        <value>No_Action</value>
+                        <value>UpdateComboBox</value>
                     </Action>
                     <Input>
                         <value>303</value>
@@ -2289,7 +2289,7 @@
                 <Action>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">No_Action</matcherParameter>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
                     </matcher>
                 </Action>
                 <Input>

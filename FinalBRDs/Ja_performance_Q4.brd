@@ -2268,7 +2268,7 @@
                         <value>blank4</value>
                     </Selection>
                     <Action>
-                        <value>No_Action</value>
+                        <value>UpdateComboBox</value>
                     </Action>
                     <Input>
                         <value>23</value>
@@ -2293,7 +2293,7 @@
                 <Action>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">No_Action</matcherParameter>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
                     </matcher>
                 </Action>
                 <Input>

@@ -762,7 +762,7 @@
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage>&#12356;&#12356;&#12391;&#12377;&#12397;&#12290;</successMessage>
             <hintMessage>&#38651;&#36554;C&#12399;1&#26178;&#38291;&#12391;&#20309;km&#36914;&#12415;&#12414;&#12377;&#12363;&#12290;</hintMessage>
-            <hintMessage>1&#12434;&#20309;&#20493;&#12377;&#12427;&#12392;6&#12395;&#12394;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
+            <hintMessage>1&#12434;&#20309;&#20493;&#12377;&#12427;&#12392;2&#12395;&#12394;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</hintMessage>
             <hintMessage>&#31572;&#12360; &#38651;&#36554;C:150</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>

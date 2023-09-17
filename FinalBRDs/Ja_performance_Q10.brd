@@ -233,27 +233,11 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>state29</text>
-        <uniqueID>30</uniqueID>
-        <dimension>
-            <x>544</x>
-            <y>2383</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
         <text>state30</text>
         <uniqueID>31</uniqueID>
         <dimension>
             <x>412</x>
             <y>2467</y>
-        </dimension>
-    </node>
-    <node locked="false" doneState="false">
-        <text>state31</text>
-        <uniqueID>32</uniqueID>
-        <dimension>
-            <x>515</x>
-            <y>2474</y>
         </dimension>
     </node>
     <node locked="false" doneState="false">
@@ -534,6 +518,22 @@
         <dimension>
             <x>435</x>
             <y>2284</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state67</text>
+        <uniqueID>68</uniqueID>
+        <dimension>
+            <x>512</x>
+            <y>2434</y>
+        </dimension>
+    </node>
+    <node locked="false" doneState="false">
+        <text>state68</text>
+        <uniqueID>69</uniqueID>
+        <dimension>
+            <x>614</x>
+            <y>2426</y>
         </dimension>
     </node>
     <edge>
@@ -4151,130 +4151,6 @@
             <studentHintRequest></studentHintRequest>
             <stepSuccessfulCompletion></stepSuccessfulCompletion>
             <stepStudentError></stepStudentError>
-            <uniqueID>111</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo9
-</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
-                        <value>&#21271;</value>
-                    </Input>
-                    <transaction_id>T3862c72d-978f-4162-924c-82cab6a90e76</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12379;&#12356;&#12363;&#12356;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo9
-</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#21271;</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>67</sourceID>
-        <destID>32</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
-            <uniqueID>103</uniqueID>
-            <message>
-                <verb>SendNoteProperty</verb>
-                <properties>
-                    <MessageType>CorrectAction</MessageType>
-                    <Selection>
-                        <value>combo9
-</value>
-                    </Selection>
-                    <Action>
-                        <value>UpdateComboBox</value>
-                    </Action>
-                    <Input>
-                        <value>&#35199;</value>
-                    </Input>
-                    <transaction_id>725b55d9-ffb9-4197-dade-abdc110338e8</transaction_id>
-                </properties>
-            </message>
-            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
-            <successMessage></successMessage>
-            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
-            <callbackFn></callbackFn>
-            <actionType>Buggy Action</actionType>
-            <oldActionType>Correct Action</oldActionType>
-            <checkedStatus>Never Checked</checkedStatus>
-            <matchers Concatenation="true">
-                <Selection>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">combo9
-</matcherParameter>
-                    </matcher>
-                </Selection>
-                <Action>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
-                    </matcher>
-                </Action>
-                <Input>
-                    <matcher>
-                        <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">&#35199;</matcherParameter>
-                    </matcher>
-                </Input>
-                <Actor linkTriggered="false">Student</Actor>
-            </matchers>
-        </actionLabel>
-        <preCheckedStatus>No-Applicable</preCheckedStatus>
-        <rule>
-            <text>unnamed</text>
-            <indicator>-1</indicator>
-        </rule>
-        <sourceID>67</sourceID>
-        <destID>30</destID>
-        <traversalCount>0</traversalCount>
-    </edge>
-    <edge>
-        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
-            <studentHintRequest></studentHintRequest>
-            <stepSuccessfulCompletion></stepSuccessfulCompletion>
-            <stepStudentError></stepStudentError>
             <uniqueID>105</uniqueID>
             <message>
                 <verb>SendNoteProperty</verb>
@@ -4328,6 +4204,126 @@
         </rule>
         <sourceID>67</sourceID>
         <destID>31</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>166</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo9</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>&#21271;</value>
+                    </Input>
+                    <transaction_id>05c599c3-ac87-700a-8b17-3b11a77346d2</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12374;&#12435;&#12397;&#12435;&#12290;</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo9</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">&#21271;</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>67</sourceID>
+        <destID>68</destID>
+        <traversalCount>0</traversalCount>
+    </edge>
+    <edge>
+        <actionLabel preferPathMark="false" minTraversals="1" maxTraversals="1">
+            <studentHintRequest></studentHintRequest>
+            <stepSuccessfulCompletion></stepSuccessfulCompletion>
+            <stepStudentError></stepStudentError>
+            <uniqueID>170</uniqueID>
+            <message>
+                <verb>SendNoteProperty</verb>
+                <properties>
+                    <MessageType>CorrectAction</MessageType>
+                    <Selection>
+                        <value>combo9</value>
+                    </Selection>
+                    <Action>
+                        <value>UpdateComboBox</value>
+                    </Action>
+                    <Input>
+                        <value>&#35199;</value>
+                    </Input>
+                    <transaction_id>05c599c3-ac87-700a-8b17-3b11a77346d2</transaction_id>
+                </properties>
+            </message>
+            <buggyMessage>&#12385;&#12364;&#12356;&#12414;&#12377;&#12290;</buggyMessage>
+            <successMessage></successMessage>
+            <hintMessage>Please provide your answer 'No_Value' in the highlighted element.</hintMessage>
+            <callbackFn></callbackFn>
+            <actionType>Buggy Action</actionType>
+            <oldActionType>Correct Action</oldActionType>
+            <checkedStatus>Never Checked</checkedStatus>
+            <matchers Concatenation="true">
+                <Selection>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">combo9</matcherParameter>
+                    </matcher>
+                </Selection>
+                <Action>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
+                    </matcher>
+                </Action>
+                <Input>
+                    <matcher>
+                        <matcherType>ExactMatcher</matcherType>
+                        <matcherParameter name="single">&#35199;</matcherParameter>
+                    </matcher>
+                </Input>
+                <Actor linkTriggered="false">Student</Actor>
+            </matchers>
+        </actionLabel>
+        <preCheckedStatus>No-Applicable</preCheckedStatus>
+        <rule>
+            <text>unnamed</text>
+            <indicator>-1</indicator>
+        </rule>
+        <sourceID>67</sourceID>
+        <destID>69</destID>
         <traversalCount>0</traversalCount>
     </edge>
     <EdgesGroups ordered="true">

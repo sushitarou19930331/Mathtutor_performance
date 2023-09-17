@@ -281,7 +281,7 @@
         </dimension>
     </node>
     <node locked="false" doneState="false">
-        <text>blank3_59</text>
+        <text>blank3_61</text>
         <uniqueID>48</uniqueID>
         <dimension>
             <x>778</x>
@@ -2027,7 +2027,7 @@
                         <value>UpdateComboBox</value>
                     </Action>
                     <Input>
-                        <value>59</value>
+                        <value>61</value>
                     </Input>
                     <transaction_id>aea8c31e-3968-8322-b1f7-713c4e79a6b2</transaction_id>
                 </properties>
@@ -2055,7 +2055,7 @@
                 <Input>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">59</matcherParameter>
+                        <matcherParameter name="single">61</matcherParameter>
                     </matcher>
                 </Input>
                 <Actor linkTriggered="false">Student</Actor>
@@ -2264,7 +2264,7 @@
                         <value>blank4</value>
                     </Selection>
                     <Action>
-                        <value>No_Action</value>
+                        <value>UpdateComboBox</value>
                     </Action>
                     <Input>
                         <value>2</value>
@@ -2289,7 +2289,7 @@
                 <Action>
                     <matcher>
                         <matcherType>ExactMatcher</matcherType>
-                        <matcherParameter name="single">No_Action</matcherParameter>
+                        <matcherParameter name="single">UpdateComboBox</matcherParameter>
                     </matcher>
                 </Action>
                 <Input>
